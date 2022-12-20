@@ -80,14 +80,14 @@ parent: Technical Committee
 * OVON Privacy Guidelines
 
 ### Trustmark Discussion - O. Coleman (Ethical Use Task Force)
-_Ms. Coleman noted that the core of the work involves putting OVON ethical principles in practice. Focus here breaks down into the following:_
+###### _Ms. Coleman noted that the core of the work involves putting OVON ethical principles in practice. Focus here breaks down into the following:_ ######
 
 * Ethical Guidelines for Voice Experiences, v. 1.0
 * Ethical Guidelines Self-Audit Checklist (for organizations, individuals to evaluate how they measure up to our ethical guidelines)
 * Ethical Guidelines Maturity Model
 * OVON Trustmark
 
-_Ms. Coleman also reviewed the core ethical principles of Open Voice_
+###### _Ms. Coleman also reviewed the core ethical principles of Open Voice_ ######
 * Privacy
 * Sustainability
 * Inclusivity
