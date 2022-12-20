@@ -26,7 +26,7 @@ The Meeting Began at 10:07am EST.
 
 ## Roadmap Update - D. Dahl.
 
-Dr. Dahl led attendees through the preexisting roadmap with new additions.
+_Dr. Dahl led attendees through the preexisting roadmap with new additions._
 
 ###### In the last Technical Committee meeting, the committee discussed an OVON Technical Synthesis Document, which they realized is a critical document for aligning and pulling together all of Open Voice's activities in architecture, privacy & security, destination/location services and other areas. This will be published at the end of January.
 
@@ -52,7 +52,7 @@ _Mr. Epstein also pointed out that the next product of the Synthesis group will 
 
 **Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap.** 
 
-_Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:)
+_Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:_
 
 * Specifications - design detailed requirements and specifications based on the synthesis document aligning all our technical work on architectural patterns, security, privacy, location, discovery, authentication and synthetic voice. 
 
