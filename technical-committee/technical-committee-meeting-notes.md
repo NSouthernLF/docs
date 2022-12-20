@@ -6,6 +6,15 @@ title: Meeting Notes
 parent: Technical Committee
 ---
 
+
+***********
+
+---
+layout: default
+title: Meeting Notes
+parent: Technical Committee
+---
+
 # Notes of the Technical Committee Meeting - December 16, 2022
 
 ## Attendees: T. Martens, J. Stine, O. Coleman, N. Southern, J. Larson, D. Dahl, B. Epstein, E. Sewell, C. Wuttke, H. Pappas
@@ -188,7 +197,11 @@ Mr. Epstein noted that we could have one person managing both roles. Each one is
 
 _Mr. Stine noted that he has two Enterprise Architects in mind for these roles._
 
+
+
+
 ### Adjournment - Mr. Stine adjourned the meeting at 11:00am.
+
 
 
 
