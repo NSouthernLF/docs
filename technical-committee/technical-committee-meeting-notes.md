@@ -52,33 +52,33 @@ _Mr. Epstein also pointed out that the next product of the Synthesis group will 
 
 **Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap.** 
 
-Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:
+_Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:)
 
-###### Specifications - design detailed requirements and specifications based on the synthesis document aligning all our technical work on architectural patterns, security, privacy, location, discovery, authentication and synthetic voice. 
+* Specifications - design detailed requirements and specifications based on the synthesis document aligning all our technical work on architectural patterns, security, privacy, location, discovery, authentication and synthetic voice. 
 
-######  Software - demonstrate the viability of our specifications with prototypes and reference architecture.
+* Software - demonstrate the viability of our specifications with prototypes and reference architecture.
 
-###### Outreach - educate and get feedback from our communities with webinars and workshops throughout 2023.
+* Outreach - educate and get feedback from our communities with webinars and workshops throughout 2023.
 
 
-### Technical Outreach Topics Under Discussion - Dr. Dahl 
+** Technical Outreach Topics Under Discussion - Dr. Dahl 
 _Dr. Dahl noted that these are not finalized, and need to be finalized and scheduled - the idea is to have one our sessions to discuss. They would be workshops or webinars depending on what the topic is._
 
-###### Interoperability
+** Interoperability
 * Dialog Packets - what they are and what they're good for (Feb-Mar)
 * Context and Dialog History Workshop - Examine Competing Requirements (April)
 * Discovery and Location Services - How to Find and Access New Voice Agents
 * Interaction Patterns Specifications
 * Introduction to OVON Interoperability Reference Implementations
 
-###### Privacy and Security
+** Privacy and Security
 * Fake Voices - How to detect and avoid them
 * Voice Passports - your entry to all voice applications and services
 * Secure end-to-end connections - keep your conversations private
 * Data sharing - control access to your voice data 
 * OVON Privacy Guidelines
 
-## Trustmark Discussion - O. Coleman (Ethical Use Task Force)
+### Trustmark Discussion - O. Coleman (Ethical Use Task Force)
 _Ms. Coleman noted that the core of the work involves putting OVON ethical principles in practice. Focus here breaks down into the following:_
 
 ###### Ethical Guidelines for Voice Experiences, v. 1.0
@@ -87,12 +87,12 @@ _Ms. Coleman noted that the core of the work involves putting OVON ethical princ
 ###### OVON Trustmark
 
 _Ms. Coleman also reviewed the core ethical principles of Open Voice_
-###### Privacy
-###### Sustainability
-###### Inclusivity
-###### Accountability 
-###### Transparency
-###### Process of Governance and Compliance Overriding Everything
+* Privacy
+* Sustainability
+* Inclusivity
+* Accountability 
+* Transparency
+* Process of Governance and Compliance Overriding Everything
 
 _Ms. Coleman discussed the interviews and meetings that have been conducted to determine what the requirements are - the team has conducted with potential partners and sponsors that have expressed interest in Trustmark, with the question with what 'Trustmark' means to each company. The team has been getting a sense of their expectations from a Trustmark framework. 13-14 such listening sessions with major companies have been held - start ups and postential sponsors._
 
