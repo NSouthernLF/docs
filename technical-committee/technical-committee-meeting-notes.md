@@ -50,7 +50,7 @@ _Mr. Epstein proposed to Ms. Coleman and Mr. Sewell, as reps of Privacy & Securi
 _Mr. Epstein also pointed out that the next product of the Synthesis group will be an answer to the question 'What are the next things we need to discuss altogether so that all of the workstreams can continue after what they are currently working on._
 
 
-**Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap.
+**Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap.**
 
 _Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:_
 
@@ -107,7 +107,7 @@ Based on these interviews, the requirements have been placed in several buckets:
 
 * Technology Solutions: one major potential sponsor - they would like one of their agents to receive a trust watermark, so that agent to agent communication would be better enhanced from a security/privacy standpoint. That way one knows which agents have gone through a validation process and are trustworthy. Another technology solution is synthetic voice detection - and the technology related to this. Another interviewee expressed interest in this.
 
-_Ms. Coleman stressed that this is the framework toward which we're working. She also wrt a timeline stated that the goal is to develop a more concrete plan and present it to the steering committee and LF for approval. ETA: January's steering committee meeting.
+_Ms. Coleman stressed that this is the framework toward which we're working. She also wrt a timeline stated that the goal is to develop a more concrete plan and present it to the steering committee and LF for approval. ETA: January's steering committee meeting._
 
 _Dr. Larson asked Ms. Coleman to define what she meant previously by 'maturity model.' Ms. Coleman responded that a maturity model is where one has an audit or assessment list where companies assess where they are related to a principle. Once they complete assessment, we see where they are against the standard. The maturity model e.g. can show where they fall short in the area of privacy. They grade themselves on their privacy policies being not as clear or as understandable as they could be. The maturity model would say "where are you against the standard and what are the recommendations for improvements?_
 
