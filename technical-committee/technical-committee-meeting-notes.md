@@ -28,7 +28,7 @@ The Meeting Began at 10:07am EST.
 
 _Dr. Dahl led attendees through the preexisting roadmap with new additions._
 
-###### In the last Technical Committee meeting, the committee discussed an OVON Technical Synthesis Document, which they realized is a critical document for aligning and pulling together all of Open Voice's activities in architecture, privacy & security, destination/location services and other areas. This will be published at the end of January.
+###### In the last Technical Committee meeting, the  committee discussed an OVON Technical Synthesis Document, which they realized is a critical document for aligning and pulling together all of Open Voice's activities in architecture, privacy & security, destination/location services and other areas. This will be published at the end of January.
 
 ###### The AWG completed the document Interoperability Patterns: Interoperable Dialogue Requirements and published it at the end of November, on schedule. The group continues to work on more details of specifications that would implement those requirements.
 
