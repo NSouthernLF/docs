@@ -50,7 +50,7 @@ _Mr. Epstein proposed to Ms. Coleman and Mr. Sewell, as reps of Privacy & Securi
 _Mr. Epstein also pointed out that the next product of the Synthesis group will be an answer to the question 'What are the next things we need to discuss altogether so that all of the workstreams can continue after what they are currently working on._
 
 
-** Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap. ** 
+**Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap.** 
 
 Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:
 
@@ -65,30 +65,28 @@ Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't s
 _Dr. Dahl noted that these are not finalized, and need to be finalized and scheduled - the idea is to have one our sessions to discuss. They would be workshops or webinars depending on what the topic is._
 
 ###### Interoperability
-	Dialog Packets - what they are and what they're good for (Feb-Mar)
-	Context and Dialog History Workshop - Examine Competing Requirements 
-	(April)
-	Discovery and Location Services - How to Find and Access New Voice Agents
-	Interaction Patterns Specifications
-	Introduction to OVON Interoperability Reference Implementations
+* Dialog Packets - what they are and what they're good for (Feb-Mar)
+* Context and Dialog History Workshop - Examine Competing Requirements (April)
+* Discovery and Location Services - How to Find and Access New Voice Agents
+* Interaction Patterns Specifications
+* Introduction to OVON Interoperability Reference Implementations
 
 ###### Privacy and Security
-	Fake Voices - How to detect and avoid them
-	Voice Passports - your entry to all voice applications and services
-	Secure end-to-end connections - keep your conversations private
-	Data sharing - control access to your voice data 
-	OVON Privacy Guidelines
+* Fake Voices - How to detect and avoid them
+* Voice Passports - your entry to all voice applications and services
+* Secure end-to-end connections - keep your conversations private
+* Data sharing - control access to your voice data 
+* OVON Privacy Guidelines
 
 ## Trustmark Discussion - O. Coleman (Ethical Use Task Force)
-
-Ms. Coleman noted that the core of the work involves putting OVON ethical principles in practice. Focus here breaks down into the following:
+_Ms. Coleman noted that the core of the work involves putting OVON ethical principles in practice. Focus here breaks down into the following:_
 
 ###### Ethical Guidelines for Voice Experiences, v. 1.0
 ###### Ethical Guidelines Self-Audit Checklist (for organizations, individuals to evaluate how they measure up to our ethical guidelines)
 ###### Ethical Guidelines Maturity Model
 ###### OVON Trustmark
 
-Ms. Coleman also reviewed the core ethical principles of Open Voice
+_Ms. Coleman also reviewed the core ethical principles of Open Voice_
 ###### Privacy
 ###### Sustainability
 ###### Inclusivity
@@ -96,8 +94,7 @@ Ms. Coleman also reviewed the core ethical principles of Open Voice
 ###### Transparency
 ###### Process of Governance and Compliance Overriding Everything
 
-
-Ms. Coleman discussed the interviews and meetings that have been conducted to determine what the requirements are - the team has conducted with potential partners and sponsors that have expressed interest in Trustmark, with the question with what 'Trustmark' means to each company. The team has been getting a sense of their expectations from a Trustmark framework. 13-14 such listening sessions with major companies have been held - start ups and postential sponsors.
+_Ms. Coleman discussed the interviews and meetings that have been conducted to determine what the requirements are - the team has conducted with potential partners and sponsors that have expressed interest in Trustmark, with the question with what 'Trustmark' means to each company. The team has been getting a sense of their expectations from a Trustmark framework. 13-14 such listening sessions with major companies have been held - start ups and postential sponsors._
 
 Based on these interviews, the requirements have been placed in several buckets:
 
@@ -117,7 +114,7 @@ _Dr. Larson asked Ms. Coleman to define what she meant previously by 'maturity m
 
 _Mr. Martens stated that he has been brainstorming how all the specification requirements and the work of the various work groups can be turned into a pilot project for OVON or a test bed of connected OVON services. However he stated that he's unclear on the specifics of the test bed - so it would help to get a better grasp on what AI/use cases are available in OVON's network among members as well as partners and other interested parties._
 
-** Action Item: Mr. Martens suggested a survey of OVON members about Voice AI use cases that members believe would be beneficial to them. - that would benefit from test bed integration, as well as criteria for what would make a pilot project successful for them.  He also suggested interviews with voice AI decision makers to follow up on this. The survey would then be followed up with the creation and launch of the pilots themselves through Q2 and Q3 of 2023. We would seek to bring partners together with strategic selection, making sure they are of equivalent size - or 'on eye level.' **
+**Action Item: Mr. Martens suggested a survey of OVON members about Voice AI use cases that members believe would be beneficial to them. - that would benefit from test bed integration, as well as criteria for what would make a pilot project successful for them.  He also suggested interviews with voice AI decision makers to follow up on this. The survey would then be followed up with the creation and launch of the pilots themselves through Q2 and Q3 of 2023. We would seek to bring partners together with strategic selection, making sure they are of equivalent size - or 'on eye level.'**
 
 _Dr. Larson asked what distinguished the pilot project from a regular project. Mr. Martens clarified that as used here, a 'pilot project' is the first occasion of implementing a new technology whose specifications and requirements are outlined on paper. Also a showcase to demonstrate what OVON stands for. How can voice AI interoperability function, and what are the benefits from it? Why is it helpful? etc._
 
@@ -153,17 +150,17 @@ _Mr. Stine noted that a pivot will be necessary of perhaps 15-25 degrees, especi
 _We have seen Google and Amazon stepping away from their voice channels._
 
 _The prospect of an interoperable worldwide voice web is further out, but there are more immediate opportunities in several key areas:_
-	Automotive
-	Healthcare and the Protection of Patient Data
-	Smart Home
-	Gaming/Metaverse/etc.
+*Automotive
+*Healthcare and the Protection of Patient Data
+*Smart Home
+*Gaming/Metaverse/etc.
 
 _OVON may want to pivot some of its use cases and pitches less to the World Wide Voice Web idea and much more toward the specific industry use cases where the question of interoperability lingers larger - such as the individual driving in his car who wants to use voice to transfer money over. How does Open Voice lead the way in this arena? The question is therefore not interoperability, but interoperability for whom?_
 
 ### Discussion and Questions
 _Mr. Sewell asked if payments are an area toward which we plan to pivot - as payments regularly impact security, privacy and ethical use. In response, Mr. Stine indicated that this did arise in the discussion with the aforementioned bank, this week, and is on Open Voice's radar._
 
-** Action Item: Mr. Epstein asked if there is a way for someone to write up a tactical direction that would guide the interoperability work, based on the 15 second snippet Mr. Stine just gave the team, but with enough substance to it that it can be used as a guide for decision making. Mr. Stine agreed to draft it just for the discipline of thinking it through. Mr. Epstein: we don't need it until the first week of January. **
+**Action Item: Mr. Epstein asked if there is a way for someone to write up a tactical direction that would guide the interoperability work, based on the 15 second snippet Mr. Stine just gave the team, but with enough substance to it that it can be used as a guide for decision making. Mr. Stine agreed to draft it just for the discipline of thinking it through. Mr. Epstein: we don't need it until the first week of January. **
 
 _T. Martens: expressed enthusiasm wrt use cases for the research process he just outlined. Believes the interoperable world wide voice web is still within reach but some interim steps may be necessary to get there._ 
 
@@ -183,12 +180,9 @@ Mr. Epstein noted  that we absolutely need to fill the following positions as so
 
 Mr. Epstein noted that we could have one person managing both roles. Each one is 10-12 hours a week - but with one person working both roles they could be done combined for 15 hrs./week
 
-** Action Item: Mr. Stine will review this.
+**Action Item: Mr. Stine will review this.**
 
 _Mr. Stine noted that he has two Enterprise Architects in mind for these roles._
-
-
-
 
 ### Adjournment - Mr. Stine adjourned the meeting at 11:00am.
 
