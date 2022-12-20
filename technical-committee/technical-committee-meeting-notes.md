@@ -19,7 +19,7 @@ parent: Technical Committee
 
 ## Review of the agenda, purpose of and expectations for the meeting  -- T. Martens.
 
-###### OVON Roadmap & planning for 2023
+###### * OVON Roadmap & planning for 2023 * ######
 ###### A Status review of the various working groups
 ###### An outlook for 2023 particularly concerning pilot projects
 ###### OVON Trustmark - related thoughts and issues
