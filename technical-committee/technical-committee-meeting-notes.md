@@ -39,20 +39,20 @@ parent: Technical Committee
 
 ###### The main new item on the roadmap is the Ovon Test Bed Specification work, tentatively slated for early May 2023.
 
-_Ms. Coleman noted that OVON publication dates are not being modified arbitrarily but that all changes have grown organically out of the dependencies we're observing from Open Voice Synthesis work._
+###### _Ms. Coleman noted that OVON publication dates are not being modified arbitrarily but that all changes have grown organically out of the dependencies we're observing from Open Voice Synthesis work._ ######
 
-_Dr. Dahl clarified that the "completion" criterion on the roadmap is having a document published._
+###### _Dr. Dahl clarified that the "completion" criterion on the roadmap is having a document published._ ######
 
-_To this, Ms. Coleman described the Privacy & Security Work Group process for document vetting and approval as being slightly more rigorous than the same process in the Architecture Work Group, and this should not impact the deadlines to which Privacy & Security has committed._
+###### _To this, Ms. Coleman described the Privacy & Security Work Group process for document vetting and approval as being slightly more rigorous than the same process in the Architecture Work Group, and this should not impact the deadlines to which Privacy & Security has committed._ ######
 
-_Mr. Epstein proposed to Ms. Coleman and Mr. Sewell, as reps of Privacy & Security, that they strive to maintain their end-of-year publication goals and reserve the right to incorporate changes if applicable a month or two later. He stated he hasn't seen anything emerging from Synthesis Work to date that can or should derail said publication deadlines._
+###### _Mr. Epstein proposed to Ms. Coleman and Mr. Sewell, as reps of Privacy & Security, that they strive to maintain their end-of-year publication goals and reserve the right to incorporate changes if applicable a month or two later. He stated he hasn't seen anything emerging from Synthesis Work to date that can or should derail said publication deadlines._ ######
 
-_Mr. Epstein also pointed out that the next product of the Synthesis group will be an answer to the question 'What are the next things we need to discuss altogether so that all of the workstreams can continue after what they are currently working on._
+###### _Mr. Epstein also pointed out that the next product of the Synthesis group will be an answer to the question 'What are the next things we need to discuss altogether so that all of the workstreams can continue after what they are currently working on._ ######
 
 
 **Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap.**
 
-_Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:_
+###### _Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:_ ######
 
 * Specifications - design detailed requirements and specifications based on the synthesis document aligning all our technical work on architectural patterns, security, privacy, location, discovery, authentication and synthetic voice. 
 
@@ -63,7 +63,7 @@ _Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't 
 
 **Technical Outreach Topics Under Discussion - Dr. Dahl** 
 
-_Dr. Dahl noted that these are not finalized, and need to be finalized and scheduled - the idea is to have one our sessions to discuss. They would be workshops or webinars depending on what the topic is._
+###### _Dr. Dahl noted that these are not finalized, and need to be finalized and scheduled - the idea is to have one our sessions to discuss. They would be workshops or webinars depending on what the topic is._ ######
 
 **Interoperability**
 * Dialog Packets - what they are and what they're good for (Feb-Mar)
@@ -107,29 +107,29 @@ Based on these interviews, the requirements have been placed in several buckets:
 
 * Technology Solutions: one major potential sponsor - they would like one of their agents to receive a trust watermark, so that agent to agent communication would be better enhanced from a security/privacy standpoint. That way one knows which agents have gone through a validation process and are trustworthy. Another technology solution is synthetic voice detection - and the technology related to this. Another interviewee expressed interest in this.
 
-_Ms. Coleman stressed that this is the framework toward which we're working. She also wrt a timeline stated that the goal is to develop a more concrete plan and present it to the steering committee and LF for approval. ETA: January's steering committee meeting._
+###### _Ms. Coleman stressed that this is the framework toward which we're working. She also wrt a timeline stated that the goal is to develop a more concrete plan and present it to the steering committee and LF for approval. ETA: January's steering committee meeting._ ######
 
-_Dr. Larson asked Ms. Coleman to define what she meant previously by 'maturity model.' Ms. Coleman responded that a maturity model is where one has an audit or assessment list where companies assess where they are related to a principle. Once they complete assessment, we see where they are against the standard. The maturity model e.g. can show where they fall short in the area of privacy. They grade themselves on their privacy policies being not as clear or as understandable as they could be. The maturity model would say "where are you against the standard and what are the recommendations for improvements?_
+###### _Dr. Larson asked Ms. Coleman to define what she meant previously by 'maturity model.' Ms. Coleman responded that a maturity model is where one has an audit or assessment list where companies assess where they are related to a principle. Once they complete assessment, we see where they are against the standard. The maturity model e.g. can show where they fall short in the area of privacy. They grade themselves on their privacy policies being not as clear or as understandable as they could be. The maturity model would say "where are you against the standard and what are the recommendations for improvements?_ ######
 
 ### Proposed Process and Set-up for OVON Pilots - T. Martens.
 
-_Mr. Martens stated that he has been brainstorming how all the specification requirements and the work of the various work groups can be turned into a pilot project for OVON or a test bed of connected OVON services. However he stated that he's unclear on the specifics of the test bed - so it would help to get a better grasp on what AI/use cases are available in OVON's network among members as well as partners and other interested parties._
+###### _Mr. Martens stated that he has been brainstorming how all the specification requirements and the work of the various work groups can be turned into a pilot project for OVON or a test bed of connected OVON services. However he stated that he's unclear on the specifics of the test bed - so it would help to get a better grasp on what AI/use cases are available in OVON's network among members as well as partners and other interested parties._ ######
 
 **Action Item: Mr. Martens suggested a survey of OVON members about Voice AI use cases that members believe would be beneficial to them. - that would benefit from test bed integration, as well as criteria for what would make a pilot project successful for them.  He also suggested interviews with voice AI decision makers to follow up on this. The survey would then be followed up with the creation and launch of the pilots themselves through Q2 and Q3 of 2023. We would seek to bring partners together with strategic selection, making sure they are of equivalent size - or 'on eye level.'**
 
-_Dr. Larson asked what distinguished the pilot project from a regular project. Mr. Martens clarified that as used here, a 'pilot project' is the first occasion of implementing a new technology whose specifications and requirements are outlined on paper. Also a showcase to demonstrate what OVON stands for. How can voice AI interoperability function, and what are the benefits from it? Why is it helpful? etc._
+###### _Dr. Larson asked what distinguished the pilot project from a regular project. Mr. Martens clarified that as used here, a 'pilot project' is the first occasion of implementing a new technology whose specifications and requirements are outlined on paper. Also a showcase to demonstrate what OVON stands for. How can voice AI interoperability function, and what are the benefits from it? Why is it helpful? etc._ ######
 
-_Dr. Dahl asked about the publication of requirements added to the roadmap for May 1st. She is unclear how this impacts or is impacted by the creation of pilots, and also what other kinds of publications will emerge from the pilot plans._
+###### _Dr. Dahl asked about the publication of requirements added to the roadmap for May 1st. She is unclear how this impacts or is impacted by the creation of pilots, and also what other kinds of publications will emerge from the pilot plans._ ######
 
-_In response, Mr. Martens stated that the test bed specification on the roadmap is placeholder. He envisions that we will not be able to integrate all of the specifications/requirements but will need to agree on a set of requirements on which we want to deliver. Therefore test bed specifications will be a reduced set of specifications/requirements._
+###### _In response, Mr. Martens stated that the test bed specification on the roadmap is placeholder. He envisions that we will not be able to integrate all of the specifications/requirements but will need to agree on a set of requirements on which we want to deliver. Therefore test bed specifications will be a reduced set of specifications/requirements._ ######
 
-_Mr. Sewell discussed Linux Foundation's 'Plug Fest,' where interoperability tests are done, and sponsors are brought in, and the interoperability of technologies in the real world is demonstrated live. He asked who from OVON would be sponsoring this pilot work._
+###### _Mr. Sewell discussed Linux Foundation's 'Plug Fest,' where interoperability tests are done, and sponsors are brought in, and the interoperability of technologies in the real world is demonstrated live. He asked who from OVON would be sponsoring this pilot work._ ######
 
-_Mr. Martens stated it must be the partners that want to showcase the technologies._
+###### _Mr. Martens stated it must be the partners that want to showcase the technologies._ ######
 
-_Mr. Stine: this is TBD - the key questions are 'with whom' and 'for whom' and these are open questions._
+###### _Mr. Stine: this is TBD - the key questions are 'with whom' and 'for whom' and these are open questions._ ######
 
-_Mr. Sewell asked wrt measuring success - if OVON would set the metrics for what is a successful pilot. Mr. Martens stated that from a specifications and requirements POV, it would be up to Open Voice to qualitatively judge a given pilot and whether it delivers. However the judgment and perspective of the individual members wrt mutually beneficial is also pertinent._
+###### _Mr. Sewell asked wrt measuring success - if OVON would set the metrics for what is a successful pilot. Mr. Martens stated that from a specifications and requirements POV, it would be up to Open Voice to qualitatively judge a given pilot and whether it delivers. However the judgment and perspective of the individual members wrt mutually beneficial is also pertinent._ ######
 
 ### Steering Committee Report- J. Stine
 
@@ -137,7 +137,7 @@ _Mr. Sewell asked wrt measuring success - if OVON would set the metrics for what
 
 ###### Recognition of the Value of Open Voice's Work
 
-_Mr. Stine noted that this week, he met with the conversation design team of one of the top banks in the United States - about 35 attendees. The topics that Open Voice is pursuing, the questions OVON is seeking to answer, and the future OVON has envisioned found widespread support with this prospective partner._
+###### _Mr. Stine noted that this week, he met with the conversation design team of one of the top banks in the United States - about 35 attendees. The topics that Open Voice is pursuing, the questions OVON is seeking to answer, and the future OVON has envisioned found widespread support with this prospective partner._ ######
 
 ###### Execution in Q1 2023
 _This will be critical to our success._
@@ -148,42 +148,43 @@ _Support for trustmark, interoperability, and the holistic approach are critical
 ###### Strategy Review & Thoughts.
 _Mr. Stine noted that a pivot will be necessary of perhaps 15-25 degrees, especially in the interoperability work. This is not a matter of stating that interoperability work will be different, but asking who is it for and tweaking the recipients_
 
-_We have seen Google and Amazon stepping away from their voice channels._
+###### _We have seen Google and Amazon stepping away from their voice channels._ ######
 
-_The prospect of an interoperable worldwide voice web is further out, but there are more immediate opportunities in several key areas:_
+###### _The prospect of an interoperable worldwide voice web is further out, but there are more immediate opportunities in several key areas:_######
 *Automotive
 *Healthcare and the Protection of Patient Data
 *Smart Home
 *Gaming/Metaverse/etc.
 
-_OVON may want to pivot some of its use cases and pitches less to the World Wide Voice Web idea and much more toward the specific industry use cases where the question of interoperability lingers larger - such as the individual driving in his car who wants to use voice to transfer money over. How does Open Voice lead the way in this arena? The question is therefore not interoperability, but interoperability for whom?_
+###### _OVON may want to pivot some of its use cases and pitches less to the World Wide Voice Web idea and much more toward the specific industry use cases where the question of interoperability lingers larger - such as the individual driving in his car who wants to use voice to transfer money over. How does Open Voice lead the way in this arena? The question is therefore not interoperability, but interoperability for whom?_ ######
 
 ### Discussion and Questions
-_Mr. Sewell asked if payments are an area toward which we plan to pivot - as payments regularly impact security, privacy and ethical use. In response, Mr. Stine indicated that this did arise in the discussion with the aforementioned bank, this week, and is on Open Voice's radar._
+###### _Mr. Sewell asked if payments are an area toward which we plan to pivot - as payments regularly impact security, privacy and ethical use. In response, Mr. Stine indicated that this did arise in the discussion with the aforementioned bank, this week, and is on Open Voice's radar._ ######
 
 **Action Item: Mr. Epstein asked if there is a way for someone to write up a tactical direction that would guide the interoperability work, based on the 15 second snippet Mr. Stine just gave the team, but with enough substance to it that it can be used as a guide for decision making. Mr. Stine agreed to draft it just for the discipline of thinking it through. Mr. Epstein: we don't need it until the first week of January. **
 
-_T. Martens: expressed enthusiasm wrt use cases for the research process he just outlined. Believes the interoperable world wide voice web is still within reach but some interim steps may be necessary to get there._ 
+###### _T. Martens: expressed enthusiasm wrt use cases for the research process he just outlined. Believes the interoperable world wide voice web is still within reach but some interim steps may be necessary to get there._ ######
 
 ### Staffing Discussion - B. Epstein (presented prepared slide accordingly)
 Mr. Epstein noted  that we absolutely need to fill the following positions as soon as possible:
 
-###### Enterprise Architect
--Can take up the relay of the synthesis work 
--Will then support that work
--Focused on 'are the things that are being done compatible with each other?'
+**Enterprise Architect
+*Can take up the relay of the synthesis work 
+*Will then support that work
+*Focused on 'are the things that are being done compatible with each other?'
 
-###### Technical Program Manager
--Two dozen workstreams need to be managed
--They will no longer fit on the road map.
--We need someone who can decomplexify and manage this
--Focused on 'are things getting done?'
+**Technical Program Manager
+*Two dozen workstreams need to be managed
+*They will no longer fit on the road map.
+*We need someone who can decomplexify and manage this
+*Focused on 'are things getting done?'
 
-Mr. Epstein noted that we could have one person managing both roles. Each one is 10-12 hours a week - but with one person working both roles they could be done combined for 15 hrs./week
+###### _Mr. Epstein noted that we could have one person managing both roles. Each one is 10-12 hours a week - but with one person working both roles they could be done combined for 15 hrs./week_ ######
+
 
 **Action Item: Mr. Stine will review this.**
 
-_Mr. Stine noted that he has two Enterprise Architects in mind for these roles._
+###### _Mr. Stine noted that he has two Enterprise Architects in mind for these roles._ ######
 
 ### Adjournment - Mr. Stine adjourned the meeting at 11:00am.
 
