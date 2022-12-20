@@ -26,7 +26,7 @@ parent: Technical Committee
 
 ## Roadmap Update - D. Dahl.
 
-_Dr. Dahl led attendees through the preexisting roadmap with new additions._
+###### _Dr. Dahl led attendees through the preexisting roadmap with new additions._
 
 ###### In the last Technical Committee meeting, the  committee discussed an OVON Technical Synthesis Document, which they realized is a critical document for aligning and pulling together all of Open Voice's activities in architecture, privacy & security, destination/location services and other areas. This will be published at the end of January.
 
