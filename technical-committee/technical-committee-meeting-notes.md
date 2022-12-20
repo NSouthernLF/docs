@@ -50,7 +50,7 @@ _Mr. Epstein proposed to Ms. Coleman and Mr. Sewell, as reps of Privacy & Securi
 _Mr. Epstein also pointed out that the next product of the Synthesis group will be an answer to the question 'What are the next things we need to discuss altogether so that all of the workstreams can continue after what they are currently working on._
 
 
-**Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap.** 
+**Action Item: Nathan and Debbie will go back over the revised dates and discuss their impact on the roadmap.
 
 _Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't specifically on the roadmap. She indicated three tracks that flow out of the synthesis work:_
 
@@ -61,17 +61,18 @@ _Here Dr. Dahl reviewed a series of activities that OVON has planned but aren't 
 * Outreach - educate and get feedback from our communities with webinars and workshops throughout 2023.
 
 
-** Technical Outreach Topics Under Discussion - Dr. Dahl 
+**Technical Outreach Topics Under Discussion - Dr. Dahl** 
+
 _Dr. Dahl noted that these are not finalized, and need to be finalized and scheduled - the idea is to have one our sessions to discuss. They would be workshops or webinars depending on what the topic is._
 
-** Interoperability
+**Interoperability**
 * Dialog Packets - what they are and what they're good for (Feb-Mar)
 * Context and Dialog History Workshop - Examine Competing Requirements (April)
 * Discovery and Location Services - How to Find and Access New Voice Agents
 * Interaction Patterns Specifications
 * Introduction to OVON Interoperability Reference Implementations
 
-** Privacy and Security
+**Privacy and Security**
 * Fake Voices - How to detect and avoid them
 * Voice Passports - your entry to all voice applications and services
 * Secure end-to-end connections - keep your conversations private
