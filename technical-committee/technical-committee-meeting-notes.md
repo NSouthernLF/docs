@@ -1,11 +1,3 @@
-***********
-
----
-layout: default
-title: Meeting Notes
-parent: Technical Committee
----
-
 
 ***********
 
