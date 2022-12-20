@@ -7,15 +7,15 @@ parent: Technical Committee
 
 # Notes of the Technical Committee Meeting - December 16, 2022
 
-## Attendees: T. Martens, J. Stine, O. Coleman, N. Southern, J. Larson, D. Dahl, B. Epstein, E. Sewell, C. Wuttke, H. Pappas
+###### Attendees: T. Martens, J. Stine, O. Coleman, N. Southern, J. Larson, D. Dahl, B. Epstein, E. Sewell, C. Wuttke, H. Pappas
 
-## Notice of Recording - N. Southern
+###### Notice of Recording - N. Southern
 
-## Linux Foundation Anti-Trust Statement - N. Southern
+###### Linux Foundation Anti-Trust Statement - N. Southern
 
-## There was no approval of minutes from the November Technical Committee meeting, as the group had agreed, during that session, to hold said meeting informally and not do minutes for it.
+###### There was no approval of minutes from the November Technical Committee meeting, as the group had agreed, during that session, to hold said meeting informally and not do minutes for it.
 
-The Meeting Began at 10:07am EST.
+###### The Meeting Began at 10:07am EST.
 
 ## Review of the agenda, purpose of and expectations for the meeting  -- T. Martens.
 
