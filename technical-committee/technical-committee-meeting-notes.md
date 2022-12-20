@@ -81,10 +81,10 @@ _Dr. Dahl noted that these are not finalized, and need to be finalized and sched
 ### Trustmark Discussion - O. Coleman (Ethical Use Task Force)
 _Ms. Coleman noted that the core of the work involves putting OVON ethical principles in practice. Focus here breaks down into the following:_
 
-###### Ethical Guidelines for Voice Experiences, v. 1.0
-###### Ethical Guidelines Self-Audit Checklist (for organizations, individuals to evaluate how they measure up to our ethical guidelines)
-###### Ethical Guidelines Maturity Model
-###### OVON Trustmark
+* Ethical Guidelines for Voice Experiences, v. 1.0
+* Ethical Guidelines Self-Audit Checklist (for organizations, individuals to evaluate how they measure up to our ethical guidelines)
+* Ethical Guidelines Maturity Model
+* OVON Trustmark
 
 _Ms. Coleman also reviewed the core ethical principles of Open Voice_
 * Privacy
@@ -98,13 +98,13 @@ _Ms. Coleman discussed the interviews and meetings that have been conducted to d
 
 Based on these interviews, the requirements have been placed in several buckets:
 
-######  Education (Training courses, with badges) - a couple of conversations with the Linux Foundation to create a basic intro course on ethical guidelines. There is an existing LF course on AI and ethics. An add'l course will be added on conversational voice AI ethics. This will be a free course. We are investigating other areas of opportunities, working with other institutions such as Univ. Central Florida, Royal College of Art. These conversations are in the beginning stages (providing executive education).
+* Education (Training courses, with badges) - a couple of conversations with the Linux Foundation to create a basic intro course on ethical guidelines. There is an existing LF course on AI and ethics. An add'l course will be added on conversational voice AI ethics. This will be a free course. We are investigating other areas of opportunities, working with other institutions such as Univ. Central Florida, Royal College of Art. These conversations are in the beginning stages (providing executive education).
 
-######  Intentions: we want to achieve a trustmark, where are we relative to this. Self assessment and maturity model. Discussions forthcoming of how to adopt a model from the EU.
+* Intentions: we want to achieve a trustmark, where are we relative to this. Self assessment and maturity model. Discussions forthcoming of how to adopt a model from the EU.
 
-######  Evidence: thinking about it from the standpoint of ISO 27001 - a third party comes in and says 'show me your privacy polices, your training policies, your training data,  is bias removed, etc.' Auditing your algorithms. Third party evaluation/certification engagement. Several OVON partners and even a few third party consulting organizations could assist OVON with this.
+* Evidence: thinking about it from the standpoint of ISO 27001 - a third party comes in and says 'show me your privacy polices, your training policies, your training data,  is bias removed, etc.' Auditing your algorithms. Third party evaluation/certification engagement. Several OVON partners and even a few third party consulting organizations could assist OVON with this.
 
-######  Technology Solutions: one major potential sponsor - they would like one of their agents to receive a trust watermark, so that agent to agent communication would be better enhanced from a security/privacy standpoint. That way one knows which agents have gone through a validation process and are trustworthy. Another technology solution is synthetic voice detection - and the technology related to this. Another interviewee expressed interest in this.
+* Technology Solutions: one major potential sponsor - they would like one of their agents to receive a trust watermark, so that agent to agent communication would be better enhanced from a security/privacy standpoint. That way one knows which agents have gone through a validation process and are trustworthy. Another technology solution is synthetic voice detection - and the technology related to this. Another interviewee expressed interest in this.
 
 _Ms. Coleman stressed that this is the framework toward which we're working. She also wrt a timeline stated that the goal is to develop a more concrete plan and present it to the steering committee and LF for approval. ETA: January's steering committee meeting.
 
