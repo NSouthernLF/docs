@@ -1,6 +1,4 @@
-
 ***********
-
 ---
 layout: default
 title: Meeting Notes
@@ -11,7 +9,7 @@ parent: Technical Committee
 
 ## Attendees: T. Martens, J. Stine, O. Coleman, N. Southern, J. Larson, D. Dahl, B. Epstein, E. Sewell, C. Wuttke, H. Pappas
 
-## Notice of Recording - J. Stine
+## Notice of Recording - N. Southern
 
 ## Linux Foundation Anti-Trust Statement - N. Southern
 
