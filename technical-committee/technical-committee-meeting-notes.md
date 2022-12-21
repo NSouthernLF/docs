@@ -182,7 +182,7 @@ _Mr. Stine noted that a pivot will be necessary of perhaps 15-25 degrees, especi
 ###### _Mr. Epstein noted that we could have one person managing both roles. Each one is 10-12 hours a week - but with one person working both roles they could be done combined for 15 hrs./week_ ######
 
 
-**Action Item: Mr. Stine will review this.**
+**Action Item: Mr. Stine will review the Enterprise Architect and Technical Program Manager requirements and pursue the two candidates he has in mind.**
 
 ###### _Mr. Stine noted that he has two Enterprise Architects in mind for these roles._ ######
 
