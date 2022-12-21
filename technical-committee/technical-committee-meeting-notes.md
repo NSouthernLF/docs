@@ -24,7 +24,7 @@ parent: Technical Committee
 ###### An outlook for 2023 particularly concerning pilot projects
 ###### OVON Trustmark - related thoughts and issues
 
-## Roadmap Update - D. Dahl.
+## Roadmap Update - D. Dahl. ##
 
 ###### _Dr. Dahl led attendees through the preexisting roadmap with new additions._
 
@@ -133,9 +133,9 @@ parent: Technical Committee
 
 ### Steering Committee Report- J. Stine
 
-**Expression of Gratitude for Progress that OVON has Made
+**Expression of Gratitude for Progress that OVON has Made**
 
-**Recognition of the Value of Open Voice's Work
+**Recognition of the Value of Open Voice's Work**
 
 ###### _Mr. Stine noted that this week, he met with the conversation design team of one of the top banks in the United States - about 35 attendees. The topics that Open Voice is pursuing, the questions OVON is seeking to answer, and the future OVON has envisioned found widespread support with this prospective partner._ ######
 
