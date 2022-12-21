@@ -169,15 +169,15 @@ _Mr. Stine noted that a pivot will be necessary of perhaps 15-25 degrees, especi
 ###### _Mr. Epstein noted that we absolutely need to fill the following positions as soon as possible:_ ######
 
 **Enterprise Architect
-*Can take up the relay of the synthesis work 
-*Will then support that work
-*Focused on 'are the things that are being done compatible with each other?'
+* Can take up the relay of the synthesis work 
+* Will then support that work
+* Focused on 'are the things that are being done compatible with each other?'
 
 **Technical Program Manager
-*Two dozen workstreams need to be managed
-*They will no longer fit on the road map.
-*We need someone who can decomplexify and manage this
-*Focused on 'are things getting done?'
+* Two dozen workstreams need to be managed
+* They will no longer fit on the road map.
+* We need someone who can decomplexify and manage this
+* Focused on 'are things getting done?'
 
 ###### _Mr. Epstein noted that we could have one person managing both roles. Each one is 10-12 hours a week - but with one person working both roles they could be done combined for 15 hrs./week_ ######
 
