@@ -133,28 +133,28 @@ parent: Technical Committee
 
 ### Steering Committee Report- J. Stine
 
-###### Expression of Gratitude for Progress that OVON has Made
+**Expression of Gratitude for Progress that OVON has Made
 
-###### Recognition of the Value of Open Voice's Work
+**Recognition of the Value of Open Voice's Work
 
 ###### _Mr. Stine noted that this week, he met with the conversation design team of one of the top banks in the United States - about 35 attendees. The topics that Open Voice is pursuing, the questions OVON is seeking to answer, and the future OVON has envisioned found widespread support with this prospective partner._ ######
 
-###### Execution in Q1 2023
+**Execution in Q1 2023
 _This will be critical to our success._
 _We cannot ease up at this point._
 _Execution is critical_
 _Support for trustmark, interoperability, and the holistic approach are critical._
 
-###### Strategy Review & Thoughts.
+**Strategy Review & Thoughts.
 _Mr. Stine noted that a pivot will be necessary of perhaps 15-25 degrees, especially in the interoperability work. This is not a matter of stating that interoperability work will be different, but asking who is it for and tweaking the recipients_
 
 ###### _We have seen Google and Amazon stepping away from their voice channels._ ######
 
 ###### _The prospect of an interoperable worldwide voice web is further out, but there are more immediate opportunities in several key areas:_######
-*Automotive
-*Healthcare and the Protection of Patient Data
-*Smart Home
-*Gaming/Metaverse/etc.
+* Automotive
+* Healthcare and the Protection of Patient Data
+* Smart Home
+* Gaming/Metaverse/etc.
 
 ###### _OVON may want to pivot some of its use cases and pitches less to the World Wide Voice Web idea and much more toward the specific industry use cases where the question of interoperability lingers larger - such as the individual driving in his car who wants to use voice to transfer money over. How does Open Voice lead the way in this arena? The question is therefore not interoperability, but interoperability for whom?_ ######
 
@@ -166,7 +166,7 @@ _Mr. Stine noted that a pivot will be necessary of perhaps 15-25 degrees, especi
 ###### _T. Martens: expressed enthusiasm wrt use cases for the research process he just outlined. Believes the interoperable world wide voice web is still within reach but some interim steps may be necessary to get there._ ######
 
 ### Staffing Discussion - B. Epstein (presented prepared slide accordingly)
-Mr. Epstein noted  that we absolutely need to fill the following positions as soon as possible:
+###### _Mr. Epstein noted that we absolutely need to fill the following positions as soon as possible:_ ######
 
 **Enterprise Architect
 *Can take up the relay of the synthesis work 
@@ -242,13 +242,13 @@ Dr. Dahl led us through Q4 2022 and Q1 2023.
 * Dependencies have been laid out. Architecture work dependent on privacy, destination/location services and security. Will come into play at end of Jan. with privacy paper publication from Architecture group. Our general policy: any dependency document should be published 4 wks before its succeeding document.
 * J. Stine noted: we need to keep a close eye on the dependency work - (e.g. destination/location services - this may slide - and we may move personal authentication out further). Any scheduling adjustments will be brought to this body for approval. 
 
-_Mr. Sewell asked at this point if we have a Program Manager identified to own the plan and do we have an Enterprise Architect who can drive the technical components and make sure that they all work together in synch? Mr. Stine: Nathan will lead Program Management for Integration with help from Dr. Dahl. Re: Resource Allocation, resources are in budget for moving into 2023 to support work. We do not have an enterprise architect but Mr. Stine deferred to Mr. Epstein, Dr. Larson, Ms. Coleman, Dr. Dahl et. al., on where and when we need this talent and how to bring it in_
+###### _Mr. Sewell asked at this point if we have a Program Manager identified to own the plan and do we have an Enterprise Architect who can drive the technical components and make sure that they all work together in synch? Mr. Stine: Nathan will lead Program Management for Integration with help from Dr. Dahl. Re: Resource Allocation, resources are in budget for moving into 2023 to support work. We do not have an enterprise architect but Mr. Stine deferred to Mr. Epstein, Dr. Larson, Ms. Coleman, Dr. Dahl et. al., on where and when we need this talent and how to bring it in_ ######
 
-_Dr. Dahl noted that while critical, this won't come into play for a few months because we lack concrete specifications that we can use as the basis of software. Mr. Epstein: the need is closer than we think. Integrations will begin on January 1st. Ms. Coleman agreed. Mr. Stine noted that this position will be ongoing_
+###### _Dr. Dahl noted that while critical, this won't come into play for a few months because we lack concrete specifications that we can use as the basis of software. Mr. Epstein: the need is closer than we think. Integrations will begin on January 1st. Ms. Coleman agreed. Mr. Stine noted that this position will be ongoing_ ######
 
-_Mr. Sewell also noted the importance of having the technical architecture in place to test interoperability, and stressed the fact that whoever we hire needs Conversational AI Experience with Language Models, Database Experience, Conversational AI Data Management.
+###### _Mr. Sewell also noted the importance of having the technical architecture in place to test interoperability, and stressed the fact that whoever we hire needs Conversational AI Experience with Language Models, Database Experience, Conversational AI Data Management. ######
 
-_Mr. Epstein suggested that we recruit/hire two Enterprise Architects, not one. One that has the necessary breadth for conceptual architecture to help with specification integration, and one with sufficient technical baggage to set up a testing lab. The integration function is critical. 
+###### _Mr. Epstein suggested that we recruit/hire two Enterprise Architects, not one. One that has the necessary breadth for conceptual architecture to help with specification integration, and one with sufficient technical baggage to set up a testing lab. The integration function is critical. ######
 
 ### Interoperability Workshop - 11/9-11/10 - Dr. Larson (schedule presented)
 * Deep discussion on how delegation works w/corresponding examples and Q&A (First morning)
