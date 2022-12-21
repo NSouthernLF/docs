@@ -161,19 +161,19 @@ _Mr. Stine noted that a pivot will be necessary of perhaps 15-25 degrees, especi
 ### Discussion and Questions
 ###### _Mr. Sewell asked if payments are an area toward which we plan to pivot - as payments regularly impact security, privacy and ethical use. In response, Mr. Stine indicated that this did arise in the discussion with the aforementioned bank, this week, and is on Open Voice's radar._ ######
 
-**Action Item: Mr. Epstein asked if there is a way for someone to write up a tactical direction that would guide the interoperability work, based on the 15 second snippet Mr. Stine just gave the team, but with enough substance to it that it can be used as a guide for decision making. Mr. Stine agreed to draft it just for the discipline of thinking it through. Mr. Epstein: we don't need it until the first week of January. **
+**Action Item: Mr. Epstein asked if there is a way for someone to write up a tactical direction that would guide the interoperability work, based on the 15 second snippet Mr. Stine just gave the team, but with enough substance to it that it can be used as a guide for decision making. Mr. Stine agreed to draft it just for the discipline of thinking it through. Mr. Epstein: we don't need it until the first week of January.**
 
 ###### _T. Martens: expressed enthusiasm wrt use cases for the research process he just outlined. Believes the interoperable world wide voice web is still within reach but some interim steps may be necessary to get there._ ######
 
 ### Staffing Discussion - B. Epstein (presented prepared slide accordingly)
 ###### _Mr. Epstein noted that we absolutely need to fill the following positions as soon as possible:_ ######
 
-**Enterprise Architect
+**Enterprise Architect**
 * Can take up the relay of the synthesis work 
 * Will then support that work
 * Focused on 'are the things that are being done compatible with each other?'
 
-**Technical Program Manager
+**Technical Program Manager**
 * Two dozen workstreams need to be managed
 * They will no longer fit on the road map.
 * We need someone who can decomplexify and manage this
