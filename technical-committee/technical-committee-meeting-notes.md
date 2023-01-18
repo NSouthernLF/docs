@@ -150,7 +150,7 @@ The Meeting Began at 10:04am ET.
 
 ##### _Ms. Coleman asked wrt prioritization and anticipation that at some point we will be incorporating the verticals of health care, automotive, etc. - how that factors into the designated work on the roadmap - because depending on which work we prioritize, it may alter our trajectory. _#####
 
-##### _In response, Mr. Stine noted in closing - hypothetically - that through our study of the verticals and the horizontals we will seek to find commonalities (e.g. authentication) across different areas of specialization. We will seek to define commonalities of greater and lesser priority and seek to bring those into the conversation. _#####
+##### _In response, Mr. Stine noted in closing - hypothetically - that through our study of the verticals and the horizontals we will seek to find commonalities (e.g. authentication) across different areas of specialization. We will seek to define commonalities of greater and lesser priority and seek to bring those into the conversation._ #####
 
 
 ### Adjournment - Mr. Stine adjourned the meeting at 11:00am.
