@@ -21,7 +21,7 @@ parent: Technical Committee
 *Mr. Wüttke greeted and welcomed everyone and covered the following agenda items*
 
 * Director Updates - Q2 Deliverables & Member Engagement - J. Stine
-* Technical Roadmap - Status & Updates - D. Dahl
+* Technical Roadmap - Status & Updates  - D. Dahl
 * Trust Mark Initiative - Next Steps - O. Coleman
 * Partnerships - Updates & Testbed Investments- J. Stine & T. Martens
 * Comments, Questions and Miscellaneous - Group
