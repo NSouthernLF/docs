@@ -5,6 +5,207 @@ layout: default
 title: Meeting Notes
 parent: Technical Committee
 ---
+# Notes of the Open Voice Network Technical Committee Meeting - July, 14, 2023
+
+**The Meeting Began at 10:01am EDT.**   
+
+**Attendees: J. Stine, C. Wüttke, O. Coleman, N. Southern, T. Martens, J. Larson, D. Dahl, A. Krish**
+
+**Basic Welcome to Meeting Attendees   -- T. Martens**
+
+**Notice of Recording - T. Martens**
+
+**Reading of Linux Foundation Anti-Trust Statement - N. Southern**
+
+## Minutes Approval of June 9, 2023 Technical Committee Meeting - T. Martens ##
+
+##### _Mr. Martens put forth a first approval motion; Ms. Coleman seconded that motion; with no objections expressed, Mr. Southern marked the minutes duly approved._ #####
+
+## Opening Statement and High-Level overview of agenda - C. Wüttke ##
+
+##### _Mr. Wüttke thanked Mr. Martens. He noted that today's agenda is both packed and dynamic and reflects the diversity of exciting work now happening within the Open Voice Network. The agenda includes the following:_ #####
+
+* Bürokratt (Estonia) - Project Updates  - Dr. Deborah Dahl
+* OVON Interoperability Sandbox - Next Steps - Dr. Deborah Dahl
+* Expenditure Planning - Jon Stine
+* New Terms for the OVON Glossary (Voting) Dr. James Larson
+* Trustmark Initiative - Updates Self Assessment Tool & Training Course -  Oita Coleman
+*  OVON Conversational Assistants Identification & Authentication Requirements Dr. James Larson
+* New Onboarding Deck for Volunteers Dr. James Larson
+* Collaboration with the W3C Voice Interaction Community - Dr. Deborah Dahl, Jon Stine
+* Miscellaneous, Comments, Questions All
+* Closing Remarks - T. Martens
+
+
+## Bürokratt (Estonia) - Project Updates  - Dr. Deborah Dahl ## 
+
+*Bürokratt is an AI solution that enables information access to a wide range of public services, and informs citizens on a 24/7 basis about the opportunities and benefits offered by the Estonian government. It was developed by the Information System Authority (RIA) of Estonia.*
+
+*The goal in OVON's collaboration with the Estonian RIA is to show how to use OVON specifications to connect services with each other based on the Bürokratt system, and - beyond this - to connect the services with external third-party services using standard OVON protocols.*
+
+*There is a good foundation for project work, including a GitHub repo with a project plan that was developed by Rainer Türner, ISA college. The group has defined steps for progressing through implementation, starting within Bürokratt - text-based chat. There are two major thrusts: text vs. voice, and within Bürokratt two external parties. The text based and voice based approaches are fairly parallel, but the group is beginning with the simplest  type of implementation: text-based chat within Bürokratt.*
+
+*The group will then be looking at expanding the services within Bürokratt. And then, delegating and doing some cooperative chat from a third-party assistant to Bürokratt, and delegation from Bürokratt to a third party. They have the parallel tasks for voice and text, and the goal is to have the POC complete by the end of 2023.*
+
+*Implementation will chiefly be done on the Estonian Bürokratt side; Open Voice's role is to assist and help Bürokratt understand OVON specifications, and the Estonian team will likely have a great deal of feedback that in turn will inform and further hone the specifications.*
+
+*The interoperability team is also in the process of hiring third-party collaborators, who will work on the task of communicating between Bürokratt and third parties. The group plans to go both directions in terms of delegation.*
+
+*A press release will be issued on Monday to announce the Estonian-OVON collaboration.*
+
+##### _Mr. Stine commented further on the enlistment of third parties. He noted that this is a work in progress and that nothing has yet been confirmed.  Including Schwarz Grüppe, three organizations have volunteered to be third parties. One is an organization that would provide voice-based biomarker analysis of respiratory diseases (i.e., health care). One is the Oslo-based Boost.ai, in the financial services space. With respect to Schwarz Grüppe, Mr. Wüttke proposed a consumer food safety use case. And a fourth organization specializes in hospitality - restaurants and hotels. This means three tentative yeses, across industries, and a fourth in conversation today. Dr. Dahl's team is compiling a packet of information on what is needed._ #####
+
+
+## Interoperability Sandbox - Dr. Deborah Dahl ##
+
+*The interoperability sandbox is OVON's own implementation of the standards foreseen as a tool with which external people can experiment, and see how the standards work among different conversational assistants. Bootstrapping will take place prior to experimentation. Expansion and elaboration via pull requests are foreseen.*
+
+*There is a clearly-defined project that includes a team of a senior and junior developer who will be working together to provide the implementation.*
+
+*Said implementation has been graphically charted-out by Dr. Dahl's team.*
+
+*None of the architecture is standard except for the messages between the different components.*
+
+*It is necessary to have a concrete implementation, so the team put together the simplest and most straightforward set of components to implement the standards, listed as follows:*
+
+* The browser - a Microsoft Edge browser - has built-in speech recognition and text-to-speech. It will be the direct interface with the user.  
+* Within said browser, there will also be a cloud ASR and TTS Box that will process Automatic Speech Recognition and Text to Speech
+* The web messages will go from the browser to the server. 
+* An assistant server could be proprietary or open source. This will host the assistants.
+
+*All of these components will be run locally for the sandbox.*
+*The timeframe for this will be about six months.*
+
+## Expenditure Planning - Jon Stine ##
+
+*The central expenditure question for the committee is its investment in the sandbox.*  
+
+*Mr. Stine will be meeting with Mr. Coin and Dr. Dahl who put together a proposal on Monday.*
+
+*A corresponding recommendation for expenditure will be coming to the technical committee from GL #6325 - Research & Development.*  
+
+*This estimate will be sent to Mr. Wüttke for his review. No exact figure is yet available at this time.*  
+
+*This represents the great next step for the Open Voice Network.*  
+
+##### _As chair, Mr. Wüttke expressed his enthusiasm for this investment conceptually._ #####
+
+## New Terms for the OVON Glossary - Jim Larson ##
+
+*A final vote took place to incorporate numerous definitions into the OVON glossary, as presented on the screen by Dr. Larson. Mr. Stine pointed out that said definitions have been used in prior white papers, and that this is therefore a process of officiation.  These definitions included the following:*  
+
+* Conversational assistant
+* Interoperability pattern
+* Native pattern
+* Delegation interoperability pattern
+* Mediation interoperability pattern
+* Channeling interoperability pattern
+* Dialog event
+* Dialog event feature 
+* Assistant identity
+* Assistant authentication
+* Tampered assistant
+* Assistant browser
+* Endpoint
+
+##### _Dr. Larson put forth a first motion for approval; Mr. Stine put forth a second motion for approval; with no questions or expressed objections, the motion to incorporate said definitions, Dr. Larson's motion was unanimously approved._ #####
+
+ ## Self-Assessment Checklist Tool/Trust Mark Initiative Update - Oita Coleman ## 
+
+*Here, Ms. Coleman offered a preview of the Trust Mark course that is being developed and the self-assessment maturity model app that has been created by developer Luis Santos del Val. This involved guiding attendees through both.*
+
+*In regard to the training course: Ms. Coleman, Mr. Southern, Valeria Barbero and Emily Banzhaf have been working with the Linux Foundation Instructional Design Team. They have been provided with content, which they are in the process of reviewing and putting into a format that is consistent with how content is delivered in their system.*
+
+*On this note, Ms. Coleman guided attendees through Chapter 4 as an example of branding and structure, and graphics and call outs, and how content is added. Voice talent has been added courtesy of frequent Ovon contributor Jim Kennelly of Lotas Productions, and his voice talent team; Ms. Coleman illustrated this in the meeting.* 
+
+*Within the course, a final quiz will be given to enrollees.*
+
+*The self-assessment model - as developed by Mr. del Val's organization SpartanBits - is close to completion. The next phase involves Thrive Marketing; they will be doing some branding, making sure everything fits within Open Voice Network brand guidelines, and making sure the colors pop without adding excessive touches that would make the app gaudy and/or inaccessible.*  
+
+*It was noted that a domain name still needs to be assigned. Thrive has purchased two: trustmark.com and trustmarkinitiative.com. Will Thrive continue to own them? Should ownership be transferred to OVON or The Linux Foundation?  (This decision is noted as an action item below).*  
+
+*It also needs to be decided: when someone goes through the process of registering to take the app, what information of theirs is captured? Should they be automatically added to the OVON mailing list? This workflow needs to be discussed.* 
+
+*There are sponsorship prospects for the Assessment App including Valeria Barbero's company Mother Tongue - an 'in-kind' sponsorship - they want to handle the non-English translations. Should this be pursued? It needs to be weighed and understood.*
+
+##### _Mr. Stine noted that in the past week he and Ms. Coleman were contacted by a senior representative of a Fortune 100 consumer products company that has shut down all Generative AI Efforts to 'get a handle on it.' He believes that the Trust Mark Initiative may be a critical way for them to put reins on GAI technology.  He has asked to review the assessment app and to learn accordingly, offer critiques, suggestions, additions - and ideally said company will be endorsing the Trust Mark initiative._ ##### 
+
+##### _A request was formally issued to the Technical Committee for the allocation of additional support monies for Mr. Santos del Val to cover ongoing maintenance and upkeep of the assessment app that he created. The estimate was placed at $100/hr. for 8 hours per month maximum $800.  This could be done on an as-needed basis, or a recurring expense, though it was suggested that it be done as a recurring expense between now and the end of the year, $800/month, and then change to an as-needed set up from that point onward._ #####
+
+##### _Mr. Stine raised the question of ownership of the domain by the Linux Foundation, and whether this might court alternate opportunities for maintenance/upkeep of the app._ #####
+
+##### _Ms. Coleman here clarified for Mr. Stine the deployment discussion that led the initiative to its current point - specifically, the fact that an LF AWS deployment has been foregone in favor of a less expensive and less time-consuming Hiroku deployment; AWS would be considerably more expensive. This exists outside of the Linux Foundation's standard maintenance provision, and as a result, the Hiroku maintenance costs associated with SpartanBits are obligatory._ #####
+
+## Identification and Authentication Requirements for Working Group - Jim Larson ## 
+
+*The Identification and Authentication Group met eight times under Bruce Epstein. In the course of its work, said group created a document, 'OVON Identification & Authentication Requirements for Conversational Assistants.'*  
+
+*Said document identifies the following:*  
+
+* Attributes used primarily for identification
+* Attributes for Trustworthiness
+* Mechanisms to evaluate trustworthiness of conversational systems (for instance, watermarking, spoofing detection, certificates)
+
+*The steps will be to review this document at the next AWG Coordination meeting on Tue. Aug. 18th and consider publishing.*
+
+##### _Dr. Larson also suggested that the AWG form a subgroup devoted to gap analysis - i.e., identify key standards and gaps not covered by those existing standards, and adjust the standards accordingly to fill the gaps._ #####
+
+##### _Mr. Stine noted that Kaizen Voiz headed by Ashok Krish - a key contributor to OVON that does user authentication in the financial services industry - is putting together a plan for providing advice and assistance in this area to Open Voice Network._ #####
+
+## New Onboarding Deck for Volunteers - Jim Larson ##
+
+*The effort to bring new volunteers into Open Voice, that began a couple of months ago, is starting to finally pay off.*  
+*It was necessary to give volunteers orientation and direction regarding how to proceed and where to go as a new contributor.*  
+*On this note, Evan Snider, of Thrive Marketing, put together a webpage that runs through how OVON does things and how one can participate step-by-step.*  
+*A deck has been created that details the many areas in which an individual or individuals can volunteer.*  
+*Other content in the deck includes: how work is done on OVON and how assignments are made on slack.*
+
+##### _Mr. Stine thanked Dr. Larson for his pivotal role in seeing the gap/need and driving this through to completion._ #####
+
+## Collaboration with the W3C Voice Interaction Community - Mr. Stine and Dr. Dahl ##
+
+*Dr. Dahl leads the W3C Voice Interaction Community in addition to serving as Senior Advisor and Technical Editor on Open Voice Network, and leading the Estonia Initiative.*  
+*Dr. Dahl's Voice Interaction Team meets every other Tuesday at 11:00am Eastern and have been publishing many dynamic papers and asserting a standardized approach to the personalized voice assistant and a number of other topics.*  
+*There is 10-15% venn diagram overlap between W3C work and OVON AWG work, but a much greater percentage of complimentary work between the two groups - one group informing the other.
+*Dr. Dahl noted that a review of the work of both groups helped detail key overlaps and pave the way for reconciliation and collaboration to avoid working at cross purposes. The team combed through OVON focus areas of work and W3C Voice Interaction specs and found three significant overlap areas:*
+
+* Interfaces (dialog events and delegation protocols) - the most fertile area for discovering and delineating commonalities.
+* Discovery (of external agents) 
+* Registry (maintaining a registry of intelligent assistants that are accessible by other assistants).
+
+*The second and third areas are not very far along, so it makes more sense to focus on exploring how agents communicate.*
+
+*Possible next steps include exploring interfaces and dialog events and see what the groups have in common, also doing coordinated exploration of the discovery and registry tasks, which would be a new effort. Some of the voice interaction work is very internal to the architecture of assistants which OVON treats as a black box; OVON may be interested in supporting or endorsing the Voice Interaction Group's work on the internals of assistants.*  
+
+*It is possible that a joint spec between the two groups might be produced although IP clearances need to be checked.*  
+
+##### _Mr. Stine asked for Mr. Wüttke's response as chair. Mr. Wüttke stated that he's looking forward to seeing how the two groups can pool efforts._ #####
+
+## Action Items - Group ##
+
+* Jon - following the receipt of documentation from Emmett and Debbie - put together documentation for Christian 
+
+* Nathan - review typos - spelling and completion - before formal incorporation of definitions into glossary
+
+* Jon and Oita - decide on a domain name for the Self-Assessment Maturity Model App and answer questions of domain ownership.
+
+* Jon and Oita - schedule a meeting with Mother Tongue - to discuss in-kind sponsorship for the Assessment app - next week.
+
+* Jon and Oita - consult and decide what information should be captured on users of Self-Assessment Maturity Model App
+
+* Jon and Oita - meet with Fortune 100 representative on Thu. Jul. 20, 2023
+
+* Jon and Oita - confirm Hiroku maintenance costs  in the coming week and take these to Christian as part two of the financial recommendations from this meeting.
+
+* Thrive, Oita and Nathan - work out DNS transfer for trustmark site with Luis Santos del Val.
+
+* AWG Coordination meeting - review  'OVON Identification & Authentication Requirements for Conversational Assistants' on Tue. Jul. 18th
+
+* Debbie & team - gather people from OVON AWG and the Voice Interaction Group and view specs together and delineate overlaps.
+
+* Jon - note to Scott Nicholas at LF to inform him of the AWG/Voice Interaction collaboration to gauge Scott's thoughts on any requisite IP steps to be taken that he is prepared to help us through those. (Email first, meeting later is step 2). 
+
+
 # Notes of the Open Voice Network Technical Committee Meeting - June 9, 2023
 **The Meeting Began at 11:01am EDT.**
 
